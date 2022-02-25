@@ -1,0 +1,17 @@
+{
+    "name": "hdw/wp-meta-box",
+    "description": "A WordPress meta box helper",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Anthony Spross",
+            "email": "a.spross@hdw1.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HDW\\MetaBoxes\\": "src/"
+        }
+    }
+}
